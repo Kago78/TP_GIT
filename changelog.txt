@@ -1,4 +1,0 @@
-336eafe display copyright
-a562799 Add file header
-198fd15 Add build time
-47f916b TP
